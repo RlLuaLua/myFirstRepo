@@ -1,2 +1,4 @@
-console.log("Hello, Wolrd");
-//this comment is the change for task 5
+const addingFunction = (x, y) =>{ return x + y };
+
+console.log("Hello, World");
+console.log(addingFunction(5, 10));
