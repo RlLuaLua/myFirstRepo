@@ -8,7 +8,7 @@ Download the project as a .zip file and unpack into it's own directory
 Use the 
 
 ##Course Content
-| ######Week | ######Content          |
+| Week | Content          |
 | :--------: | :----------:           |
 | Week1      | Introduction to NodeJS |
 | Week2      | Managing source control with version system |
